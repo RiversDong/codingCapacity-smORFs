@@ -21,3 +21,6 @@ Cross-species prediction (One to one)
 
 ## gridSearchMixed.py
 Merge all kind of features of all species and perform cross-species prediction (Four to one)
+
+## featurePackage.py
+Including some functions to calculate the sequence-derived features, which is called by the above scripts
