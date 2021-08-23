@@ -1,5 +1,5 @@
 # sORF
-Python scripts to extract sequence-derived features and perform RF-based validation and prediction
+Python scripts to extract sequence-derived features of small ORFs and perform RF-based validation and prediction
 
 ## featureCombineTrain.py 
 Get all features of train dataset
